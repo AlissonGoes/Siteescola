@@ -30,7 +30,7 @@
 
 
     .escola {
-        background-image: linear-gradient(#383D58,#00c0eb);
+        background-image: linear-gradient(#383d58,#b400eb);
         color: white;
         display: flex;
         justify-content: center;
@@ -77,4 +77,14 @@
             display:grid;
             grid-template-columns: 20% 20% 20% 20% 20%;
             text-align: center;
+        }
+        footer{
+            background-color: black;
+            padding: 15px 0;
+            text-align: center;
+            }
+
+        .rodape-imagem{
+            height: 60px;
+            padding: 12px 0;
         }
